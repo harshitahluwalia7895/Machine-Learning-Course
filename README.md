@@ -17,4 +17,4 @@ Machine learning is an application of artificial intelligence (AI) that provides
 * [2.Chapter 2 : Simple Linear Regression]()
 * [code]()
 * [video]()
-![alt_text](https://github.com/harshitahluwalia7895/Machine-Learning-Course/blob/master/Infographics/Simple%20Linear%20Regression.jpg)
+![alt_text](https://github.com/harshitahluwalia7895/Machine-Learning-Course/blob/master/Infographics/Simple%20Linear%20Regression%20Updated.jpg)
